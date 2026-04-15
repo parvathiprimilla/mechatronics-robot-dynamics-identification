@@ -75,6 +75,19 @@ The goal was to bridge theoretical modeling with real-world experimental validat
 
 ---
 
+## 📁 Repository Structure
+
+/code  
+├── hardware_tests/ → Basic validation of sensors and microcontroller  
+├── sensor_experiments/ → Data collection and system modeling  
+├── demos/ → Interactive and autonomous system behavior  
+
+/data → Experimental logs  
+/docs → Reports and documentation  
+/images → Project visuals  
+
+---
+
 ## 👥 Team
 
 - Parvathi Primilla  
